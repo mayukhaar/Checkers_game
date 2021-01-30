@@ -1,0 +1,2 @@
+This is my first html program. I have made the checker's board using html and some CSS that I learned. 
+I began to do JavaScript but didn't know enough to complete the steps of the project. 
